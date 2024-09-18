@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "MPD Modelo prevencion delitos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComplianceAgente/ComplianceAgente.git"
+  },
+  "author": "Cristian Retamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComplianceAgente/ComplianceAgente/issues"
+  },
+  "homepage": "https://github.com/ComplianceAgente/ComplianceAgente#readme"
+}
